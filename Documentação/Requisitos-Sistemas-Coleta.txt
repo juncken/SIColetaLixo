@@ -1,0 +1,20 @@
+Gabriel Juncken Costa RM 82460
+
+Brainstorm antes de referencias:
+
+-Com a chegada dos caminhões, será analisado o peso e quantidade de lixo coletada e armazenar essa informação no banco de  dados.
+
+-Definir sedes da equipe para saber onde serão depositados os lixos coletados.
+
+
+fontes: https://g1.globo.com/sp/sao-carlos-regiao/noticia/grupo-da-usp-cria-software-para-mapear-lixo-e-gerenciar-destinacao.ghtml
+
+https://www.cobli.co/recursos/roteirizacao-de-frota-e/?campaignid=919029015&adgroupid=48658639391&adid=224663751812&utm_source=google&utm_term=criador%20de%20rotas&utm_medium=cpc&utm_campaign=br-roteirizacao&hsa_net=adwords&hsa_kw=criador%20de%20rotas&hsa_tgt=kwd-389624817793&hsa_acc=6887042085&hsa_grp=48658639391&hsa_mt=p&hsa_cam=919029015&hsa_ver=3&hsa_ad=224663751812&hsa_src=g&gclid=CjwKCAjwvtX0BRAFEiwAGWJyZAdmbx5I7NzWoppTxx3t3hoWAffQjnxClHnlmR1WkO9Zy4Sj3Ua4CRoCy08QAvD_BwE&utm_expid=.6MvXJvx-Sq22bjXfhup0PA.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F
+
+
+
+brainstorm Após referencias:
+
+-Para a criação de rotas será necessario testes para definir informações de coleta, para que o software consiga fazer a  melhor rota para o maior aproveitamento da coleta de lixo.
+
+-Criar aplicativo de celular para que os usuários residenciais possam ter informações de pontos de coleta.
